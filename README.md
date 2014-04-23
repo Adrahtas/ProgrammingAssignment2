@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -100,3 +101,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+=======
+ProgrammingAssignment2
+======================
+>>>>>>> e08538e300193400db572209cb50f48b808348cf
